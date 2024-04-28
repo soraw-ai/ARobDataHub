@@ -2,5 +2,5 @@
 <img src="logo.png"  width="40%" height="40%">
 </p>
   
-# <div align="center"> ARobDataHub: Awesome Datasets for Agentics and Robotics </div>
+# <div align="center"> ARobDataHub: Awesome Datasets for Agentics & Robotics </div>
 ----------------------------------
